@@ -1,3 +1,4 @@
+# Program to calculate factorial
 def factorial(n):
   for i in range(n,1,-1) :
     if i == n:
